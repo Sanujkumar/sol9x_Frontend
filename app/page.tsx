@@ -31,7 +31,7 @@ export default function Home() {
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 1.2 }}
         >
-          🎟️ Welcome to Redeem System
+           Welcome to Managment Profile
         </motion.h1>
 
         <motion.p
@@ -40,8 +40,8 @@ export default function Home() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.3, duration: 1 }}
         >
-          Manage, create, and redeem your exclusive codes easily.  
-          Designed for both <span className="font-semibold">Admins</span> and <span className="font-semibold">Users</span>.
+          Manage, create, and Students your exclusive codes easily.  
+          Designed for both <span className="font-semibold">Admins</span> and <span className="font-semibold">Students</span>.
         </motion.p>
 
         <motion.div
